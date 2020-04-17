@@ -1,0 +1,9 @@
+[package]
+name = "fahrenheit_to_celcius"
+version = "0.1.0"
+authors = ["Kevin Chandler <im.kevin@me.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
